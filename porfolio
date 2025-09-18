@@ -45,7 +45,7 @@
           <span>Riccardo Lora</span>
         </h1>
         <!-- Put a small paragraph about yourself -->
-        <p>A Web Developer based in Lahore, Pakistan.</p>
+        <p>Bocconi and PKU university student, major in Economics and Business Administration. Milan/Beijing </p>
         <a href="#contact" class="btn btn--pink">Get in touch</a>
       </div>
     </div>
@@ -53,9 +53,9 @@
 
   <main role="main">
 
-    <!-- ***** Work ***** -->
+    <!-- ***** EDUCATION ***** -->
 
-    <section class="work" id="work">
+    <section class="education" id="education">
       <div class="row">
         <h2>My Work</h2>
         <div class="work__boxes">
@@ -66,7 +66,10 @@
             <div class="work__text">
               <h3>Portfolio Template</h3>
               <p>
-                A free Open Source Portfolio for anyone to use for free.
+               Bocconi university
+            
+               Peking university
+
               </p>
               <ul class="work__list">
                 <li>HTML</li>
